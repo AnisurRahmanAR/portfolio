@@ -10,7 +10,7 @@ This site showcases my background, skills, and projects, built entirely with mod
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **HTML5** — semantic, accessible structure  
 - **CSS3** — custom styling with responsive layout and animations  
 - **FontAwesome** — icons  
