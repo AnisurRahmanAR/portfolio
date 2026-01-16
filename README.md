@@ -1,12 +1,12 @@
-# 🧑‍💻 Anisur Rahman — Developer Portfolio
+# Anisur Rahman — Developer Portfolio
 
 Welcome to my personal portfolio website.  
 This site showcases my background, skills, and projects, built entirely with modern web technologies to reflect my growth as a self-taught developer.
 
 ---
 
-## 🚀 Live Site
-🔗 **Visit here:** https://anisurrahmanar.github.io/portfolio/
+## Live Site
+**Visit here:** https://anisurrahmanar.github.io/portfolio/
 
 ---
 
@@ -19,7 +19,7 @@ This site showcases my background, skills, and projects, built entirely with mod
 
 ---
 
-## 📂 Structure
+## Structure
 
 portfolio/
 │
@@ -30,7 +30,7 @@ portfolio/
 
 ---
 
-## ✨ Features
+## Features
 - Responsive design — adapts beautifully to mobile and desktop  
 - Accessible navigation with keyboard & screen reader support  
 - Smooth section scrolling  
@@ -40,7 +40,7 @@ portfolio/
 
 ---
 
-## 🧱 Deployment
+## Deployment
 Hosted via **GitHub Pages**.  
 To run locally:
 1. Clone the repository:
@@ -48,20 +48,18 @@ To run locally:
    git clone https://github.com/<your-username>/portfolio.git
 Open index.html directly in your browser or with a local server (e.g. VS Code Live Server).
 
-🧩 Future Improvements
+Future Improvements
 Add light/dark theme toggle
 
 Introduce subtle animations with reduced motion support
 
 Include more interactive project previews
 
-📬 Contact
-📧 AnisurRahmanAR@hotmail.com
-💼 LinkedIn
-💻 GitHub
+Contact
+AnisurRahmanAR@hotmail.com
 
-🕊️ Acknowledgements
-Everything here was built by me — with learning, late nights, and lots of chai ☕.
+Acknowledgements
+Everything here was built by me.
 All rights reserved © 2025 Anisur Rahman.
 
 ---
