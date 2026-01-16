@@ -19,17 +19,6 @@ This site showcases my background, skills, and projects, built entirely with mod
 
 ---
 
-## Structure
-
-portfolio/
-│
-├── index.html # Main HTML file
-├── style.css # Core styling
-├── images/ # Project & profile images
-└── README.md # This file
-
----
-
 ## Features
 - Responsive design — adapts beautifully to mobile and desktop  
 - Accessible navigation with keyboard & screen reader support  
