@@ -1,4 +1,4 @@
-# Anisur Rahman — Developer Portfolio
+# Anisur Rahman - Developer Portfolio
 
 Welcome to my personal portfolio website.  
 This site showcases my background, skills, and projects, built entirely with modern web technologies to reflect my growth as a self-taught developer.
@@ -11,16 +11,16 @@ This site showcases my background, skills, and projects, built entirely with mod
 ---
 
 ## Tech Stack
-- **HTML5** — semantic, accessible structure  
-- **CSS3** — custom styling with responsive layout and animations  
-- **FontAwesome** — icons  
-- **JetBrains Mono** — developer-friendly typography  
-- **JavaScript (ES6)** — tabs, navigation menu, and form logic  
+- **HTML5** - semantic, accessible structure  
+- **CSS3** - custom styling with responsive layout and animations  
+- **FontAwesome** - icons  
+- **JetBrains Mono** - developer-friendly typography  
+- **JavaScript (ES6)** - tabs, navigation menu, and form logic  
 
 ---
 
 ## Features
-- Responsive design — adapts beautifully to mobile and desktop  
+- Responsive design - adapts beautifully to mobile and desktop  
 - Accessible navigation with keyboard & screen reader support  
 - Smooth section scrolling  
 - Contact form powered by Google Apps Script  
